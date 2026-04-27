@@ -29,11 +29,14 @@ const umair = {
 
 ### 🎨 Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### 🎭 Design Tools
-<table><tr><td><img src="https://skillicons.dev/icons?i=figma" /></td><td><img width="48" height="48" alt="Canva" src="https://github.com/user-attachments/assets/96736ff9-247d-4154-ba69-d6d3367ac554" /></td></tr></table>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps" />
+  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" height="47" alt="Canva" title="Canva" style="margin: 5px;" />
+</p>
 
 ### 💻 Languages
 <p>
@@ -70,12 +73,16 @@ const umair = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umairalimalik78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairalimalik78&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umairalimalik78&theme=tokyonight" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=umairalimalik78&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umairalimalik78&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umairalimalik78&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairalimalik78&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
