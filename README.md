@@ -29,14 +29,14 @@ const umair = {
 
 ### 🎨 Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
 ### 🎭 Design Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps" />
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" height="47" alt="Canva" title="Canva" style="margin: 5px;" />
-</p>
+<table border="0" cellspacing="0" cellpadding="0"><tr>
+  <td><img src="https://skillicons.dev/icons?i=figma" /></td>
+  <td><img width="45" height="45" alt="Canva" src="https://github.com/user-attachments/assets/4a83fc22-a167-4a87-b4c4-32f2a21cf91d" /></td>
+</tr></table>
 
 ### 💻 Languages
 <p>
